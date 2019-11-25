@@ -54,5 +54,6 @@ Multivariate Responses for Group Data](BA.pdf)"  using the R package MBSGS
 library(MBSGS)
 ```
 
-## "Results from MBSGS package"(Result_Analysis_paper_BA.pdf)
+## Results from MBSGS package
 
+![Result from our article](result_ba.pdf) 
