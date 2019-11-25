@@ -43,6 +43,9 @@ $$\mathbf{X}=[\underbrace{X_1,X_2,\ldots,X_k}_{M_1}|\underbrace{X_{k+1},X_{k+2},
 
 ## Application Rat Data: Aim and Data 
 
+- [Rat Data](Rat-Application.html)
+
+
 - \textcolor{red}{Identify a parsimonious set of predictors} that explains the \textcolor{blue}{joint variability of gene expression} in four tissues (adrenal gland, fat, heart, and kidney).
 
 - 770 SNPs in 29 inbred rats as a predictor matrix (n = 29, p = 770)
