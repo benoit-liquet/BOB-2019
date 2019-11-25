@@ -6,7 +6,7 @@ Workshop Aims:
 
 -   Explore Bayesian Variable Selection methods for group structure data
 -   Some coding in R 
--   Analysis of two Genetics Data Set
+-   Analysis of Genetics Data Set
 
 ## Genomics Data: Wide Data, High Dimensional Data
 
@@ -27,5 +27,4 @@ Need to remove variable, or regularize, or both
 
 ## [Application Rat Data: Aim and Data ](RAT/)
 
-## [Application BREAST CANCER Data: Aim and Data ](BREAST/)
 
