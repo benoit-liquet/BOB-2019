@@ -28,6 +28,10 @@ dim(Y)
 
 ![](spikeslab.png) 
 
+```{r}
+library(SSLASSO)
+```
+
 
 - Univariate model using "BhGLM: Bayesian hierarchical GLMs"(https://github.com/nyiuab/BhGLM).  
 
