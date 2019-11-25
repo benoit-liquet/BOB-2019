@@ -30,6 +30,14 @@ dim(Y)
 devtools::install_github("nyiuab/BhGLM", build_opts = c("--no-resave-data", "--no-manual"), force = T)
 ```
 
+- Using the "Spike-and-Slab Group Lassos for Grouped Regression"(https://github.com/jantonelli111/SSGL)
+
+```{r}
+library(devtools)
+install_github(repo = "jantonelli111/SSGL")
+library(SSGL)
+```
+
 - Reproduce results from the paper "[Bayesian Variable Selection Regression of
 Multivariate Responses for Group Data](BA.pdf)"  using the R package MBSGS
 
