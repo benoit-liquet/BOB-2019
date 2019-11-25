@@ -18,3 +18,14 @@ gsize <- RAT$gsize
 dim(X)
 dim(Y)
 ```
+
+## Solution 
+
+- your turn ?
+
+- Reproduce results from the paper "[Bayesian Variable Selection Regression of
+Multivariate Responses for Group Data](BA.pdf)"  using the R package MBSGS
+
+```{r}
+library(MBSGS)
+```
