@@ -22,7 +22,12 @@ dim(Y)
 
 ## Solution 
 
-- your turn ?
+- Any idea ?
+
+- Spike and Slab prior: "The Spike-and-Slab LASSO" (https://amstat.tandfonline.com/doi/abs/10.1080/01621459.2016.1260469#.XdtSu9HjI5k) : R package SSLASSO.
+
+![](spikeslab.png) 
+
 
 - Univariate model using "BhGLM: Bayesian hierarchical GLMs"(https://github.com/nyiuab/BhGLM).  
 
